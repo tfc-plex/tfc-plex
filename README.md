@@ -1,9 +1,9 @@
 # tfc-plex
 
 ![image](https://cdn.tfc-plex.de/img/gitlogo.png)
-<p align="center" dir="auto">Trusted by 134 host and 130472 users.</p>
+<p align="center" dir="auto">Trusted by 19 host and 2843 users.</p>
 <p align="center">
-  <a><img src="https://img.shields.io/github/downloads/tfc-plex/tfc-plex/total?color=blue&label=1.5.5 Downloads"/></a>
+  <a><img src="https://img.shields.io/github/downloads/privt00/tfc-plex/total?color=blue&label=v1.5.0 Downloads"/></a>
   <a href="https://discord.gg/BXmzHS9DRA"><img src="https://img.shields.io/discord/1175441775972860076?color=blue&label=Discord&logo=tfc-plex&logoColor=blue" alt="discord" /></a>
   <a href="https://docs.tfc-plex.de/"><img alt="Docs" src="https://img.shields.io/website?down_color=lightred&down_message=Offline&label=Docs&up_color=blue&up_message=Online&url=https://docs.tfc-plex.de/"></a>
   <a href="https://tfc-plex.de"><img alt="Website" src="https://img.shields.io/website?down_color=lightred&down_message=Offline&label=Website&up_color=blue&up_message=Online&url=https://tfc-plex.de"></a>
@@ -12,7 +12,7 @@
 </p>
 
 
-``` bash <(curl -s https://tfc-plex.de/install.sh)```
+
 
 ## Features
 
@@ -51,4 +51,10 @@ Theme Switcher (v1.5.0):
 
 ---
 
-## © 2023-2024 TFC-Plex by privt00
+# Cangelog
+
+|Date|Version|Short Description|Long Description|
+|---|---|---|---|
+|2023/12/24|v1.0|First Release||
+
+© 2023-2024 TFC-Plex by privt00
